@@ -3,12 +3,12 @@
 # K-Nearest-Neighbor
 
 
-# Problem - 2
+# Problem - 1
 
 Implement a KNN model to classify the animals in to categorie
 
 
-# Problem - 1
+# Problem - 2
 
 Prepared models for glass type classification and animals in to categories using KNN (K-Nearest Neighbor) algorithm
 
